@@ -10,13 +10,6 @@ This repo for add and adit user, materi, class in apps e-learning.
 for download e-learning click https://github.com/riky-cloud/apps_learning_unpam.git
 thank you.
 
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
 *******************
 Server Requirements
 *******************
